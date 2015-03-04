@@ -41,7 +41,7 @@
     "hyperquest": "^1.0.1",
     "libmime": "^0.1.7",
     "nodemailer-direct-transport": "^1.0.1",
-    "nodemailer-smtp-transport": "^1.0.0"
+    "nodemailer-smtp-transport": "git://github.com/JHumphreyJr/nodemailer-smtp-transport.git"
   },
   "engines": {
     "node": ">=0.10.0"
